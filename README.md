@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @datrfe
 - 👀 I’m interested in Ai
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 - 💞️ I'm not good at English
-- 📫 How to reach me Discord qwpwent
-- 😄 My big goal Ai girlfriend
+- 📫 You can reach me in Discord:qwpwent
+- 😄 My big goal is Ai girlfriend
 - ⚡ Fun fact: I am studying with YouTube.
 
 <!---
